@@ -3,7 +3,7 @@ Crypto.com Hackathon 2022: The Next Gen
 
 # Project Name
 > This projects mimics a blockchain based crowdsourcing platform which gets rid of centralized cloud-servers and leverages smart contracts to realize task recommendation and reward distribution. 
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo of our figma prototype [_here_](https://www.figma.com/proto/kRhBk1177PSUI7R7NY8Ur6/Giver-team-library?node-id=465%3A125&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=420%3A5). <!-- If you have the project hosted somewhere, include the link here. -->
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
