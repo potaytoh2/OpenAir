@@ -27,9 +27,9 @@ This solution solves the lack of transparency within NGOs and involves donors in
 
 Watch this [_video_](https://youtu.be/IrxJ0nb2WvA) for further explanation on the smart contract.
 
-Watch this [_video_] (https://www.loom.com/share/cebd23186ccf4d90b403e8c9423cad56) to view how our figma prototype works.
+Watch this [_video_](https://www.loom.com/share/cebd23186ccf4d90b403e8c9423cad56) to view how our figma prototype works.
 
-Interfact with our prototype [_here_] ()
+Interfact with our prototype [_here_](https://www.figma.com/proto/kRhBk1177PSUI7R7NY8Ur6/Giver-team-library?node-id=465%3A125&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=420%3A5)
 
 ## Technologies Used
 - solc - version 0.4.26
