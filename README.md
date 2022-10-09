@@ -2,7 +2,7 @@
 Crypto.com Hackathon 2022: The Next Gen
 
 # Project Name
-> This projects mimics a blockchain based crowdsourcing platform which gets rid of centralized cloud-servers and leverages smart contracts to realize task recommendation and reward distribution. 
+> This projects mimics a blockchain based fundraising platform for Non-governmental organisations (NGO) which gets rid of centralized cloud-servers and leverages smart contracts. 
 > Live demo of our figma prototype [_here_](https://www.figma.com/proto/kRhBk1177PSUI7R7NY8Ur6/Giver-team-library?node-id=465%3A125&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=420%3A5). <!-- If you have the project hosted somewhere, include the link here. -->
 ## Table of Contents
 * [General Info](#general-information)
@@ -15,24 +15,23 @@ Crypto.com Hackathon 2022: The Next Gen
 
 
 ## General Information
-In a traditional fundraising platform for NGOs, there are three roles: Campaign manager or project initiator who proposes the idea to be funded, crowdfunders who support the idea and contribute monetary value to it, and manufacturers/service providers who are paid by the campaign manager to bring the idea to life. 
+In a traditional fundraising platform for NGOs, there are three roles: Organisations or project initiator who proposes the idea to be funded, crowdfunders who support the idea and contribute monetary value to it, and manufacturers/service providers who are paid by the Organisations to bring the idea to life.
 
-This arrangement has made crowdfunding platforms notorious for their untrustworthiness and unfairness. Manufacturers and Campaign managers may collude, Campaign managers may run away with the money or Campaign managers may encounter financial problems leaving contributors unable to get back their deposits. In 2018, ofo sharing bicycles encountered financial problems and their users could not get their deposits back. 
+This arrangement has made fundraising platforms notorious for their untrustworthiness and unfairness. Manufacturers and Organisations may collude, Campaign managers may run away with the money or Campaign managers may encounter financial problems leaving contributors unable to get back their deposits. In July 2021 Singapore, a woman was jailed for embezzling nearly $1.5 million from charity and lost most of it in a love scam.
 
-To address this lack of accountability, a feasible solution is to build a crowdsourcing platform based on blockchain. Blockchain is a shared, distributed ledger that facilitates the process of recording transactions and tracking assets in a business network.
+To address this lack of transparency, as no NGOs would be bold enough to do such a task if every transaction was transparent and available for the donors to see where their donations are contributed to, a feasible solution is to build a fundraising platform based on blockchain. Blockchain is a shared, distributed ledger that facilitates the process of recording transactions and tracking assets in a business network.
 
-By utilizing smart contracts on the blockchain, I incorporated a voting system for crowdfunders, enabling the involvement of governance and protecting their interests. When Campaign managers request to spend on something, they are to fill in the details and purpose of this transaction, this request is then sent to all crowdfunders for their approval. If the request passes by a simple majority (>50%), the transaction goes through.
+In addition to creating transparency within the distribution of cashflow, we have also created smart contracts on the blockchain, to incorporate a voting system for donors, enabling the involvement of governance to increase inclusivity and the freedom in choosing where their money is distributed to. When organisations request to spend on something, they are to fill in the details and purpose of this transaction, this request is then sent to all donors for voting. If the request passes by a simple majority (>50%), the transaction proceeds.
 
-This solution solves the lack of accountability granted by traditional crowdfunding platforms and involves crowdfunders in the development process.
+This solution solves the lack of transparency within NGOs and involves donors in decision making
 
 Watch this [_video_](https://youtu.be/IrxJ0nb2WvA) for further explanation on the smart contract.
 
-Watch this [_video_] (https://www.loom.com/share/cebd23186ccf4d90b403e8c9423cad56) to view our figma prototype
+Watch this [_video_] (https://www.loom.com/share/cebd23186ccf4d90b403e8c9423cad56) to view how our figma prototype works.
 
 Interfact with our prototype [_here_] ()
 
 ## Technologies Used
-- Solidity - version 0.4.1
 - solc - version 0.4.26
 
 
